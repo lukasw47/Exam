@@ -1,5 +1,7 @@
 # Lernsituation 7.1
 
+Raspberry Pi und Linux - Einführung
+
 ## Aufgaben
 
 - [To-do-Liste](tasks/ToDoListe.md)
