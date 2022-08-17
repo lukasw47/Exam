@@ -10,6 +10,8 @@ Raspberry Pi und Linux - Einführung
 
 ## Ressourcen
 
+Aus Teams
+
 - [Fragenkatalog](https://gsobk.sharepoint.com/:w:/s/msteams_2ffa7f/ESrIglHphbBItKupnggSUjMB4gBz-GDX0JsOGFdGF5MlOA?e=axenCV)
 - [To-do-Liste](https://gsobk.sharepoint.com/:w:/s/msteams_2ffa7f/ET73Wbmq7P9AlaVgFGCSnsgBj-PjMiif0FJpfaTKeBXx2A?e=HIAzFQ)
 - [Kundenanforderungen](https://gsobk.sharepoint.com/:b:/s/msteams_2ffa7f/EfJX7GNVcIhIv5VEbKeJB-AB7ZMgRkjbilNNtkdcXN3ZTA?e=6aoL3h)
