@@ -1,6 +1,6 @@
 # ToDo Liste
 
-- ToDo Liste erweitern
+- To-do-Liste erweitern
 - Fragenkatalog an den Kunden
 - Hardware
 - Geeignetes Virtuelles System erstellen
