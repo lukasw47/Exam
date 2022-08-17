@@ -1,1 +1,1 @@
-# GiD
+# GiD - Gestaltung von IT-Dienstleistungen
