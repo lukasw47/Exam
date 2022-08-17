@@ -19,4 +19,4 @@ Ja. Gibt es.
 
 A:
 Es soll eine technische Dokumentation erstellt werden.
-Auf welchen Weg die Dokumentation bereit gestellt ist nicht von belang.
+Auf welchen Weg die Dokumentation bereitgestellt ist, nicht von belang.
