@@ -2,6 +2,6 @@
 
 ## Aufgaben
 
-- [To-do-Liste](./Aufgaben/ToDoListe.md)
-- [Rechte](./Aufgaben/Rechte.md)
-- [Fragen Katalog](./Aufgaben/FragenKatalog.md)
+- [To-do-Liste](Tasks/ToDoListe.md)
+- [Rechte](Tasks/Rechte.md)
+- [Fragen Katalog](Tasks/FragenKatalog.md)
