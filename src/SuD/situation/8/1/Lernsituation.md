@@ -27,5 +27,3 @@ Think, Pair, Share Prinzip. => Einzelarbeit, Gruppenarbeit, Teilen.
 - Gibt Informationen zu der Liga, dem Ort, der Zeit, den Ergebnissen (1. und 2. Halbzeit), den Vereinen.
 - Sehr gut strukturiert.
 - Sehr gut lesbar.
-
-## Aufgabe
