@@ -10,6 +10,11 @@ Raspberry Pi und Linux - Einführung
 - [Rechte](tasks/Rechte.md)
 - [Fragen Katalog](tasks/FragenKatalog.md)
 
+## Informationen
+
+- [Lastenheft](info/Lastenheft.md)
+- [Pflichtenheft](info/Pflichtenheft.md)
+
 ## Ressourcen
 
 Aus Teams
