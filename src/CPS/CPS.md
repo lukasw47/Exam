@@ -1,6 +1,7 @@
 [<< Back](../../README.md)
 
-# CPS - Cyber-Physische Systeme
+# CPS
+Cyber-Physische Systeme
 
 ## Lernsituationen
 

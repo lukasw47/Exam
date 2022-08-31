@@ -1,6 +1,7 @@
 [<< Back](../../README.md)
 
-# GiD - Gestaltung von IT-Dienstleistungen
+# GiD
+Gestaltung von IT-Dienstleistungen
 
 ## Lernsituationen
 
