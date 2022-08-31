@@ -1,29 +1,9 @@
 [<< Back](../Lernsituation.md)
 
-## Notes
+# Lernsituation 8.1
 
-Homogene Datenquellen => Einheitliche Datentypen.
-Heterogene Datenquellen => .
-Datentypen.
-Häufig: xml, csv, json.
+Open Data
 
-Think, Pair, Share Prinzip. => Einzelarbeit, Gruppenarbeit, Teilen.
+## Notizen
 
-### Szenario
-
-[TeamData2018.json](resources/TeamData2018.json):
-- Zuordnung von Spielern und Vereinen.
-- Optimierungspotential der Datei.
-- Daten im Json Format.
-- Ursprünglich als Text Datei benannt.
-- Könnte Auskunft über Spielerwechsel geben (Wenn 1 Spieler bei 2 Vereinen eingetragen ist).
-
-[season-1819.csv](resources/season-1819.csv):
-- Stellt Spiele und Ergebnisse dar
-- Keine übersichtlichen Spaltennamen
-
-[2018.xml](resources/2018.xml):
-- Beschreibt Fußballspiele.
-- Gibt Informationen zu der Liga, dem Ort, der Zeit, den Ergebnissen (1. und 2. Halbzeit), den Vereinen.
-- Sehr gut strukturiert.
-- Sehr gut lesbar.
+- [Notizen 31.08.2022](notes/2022-08-31.md)
