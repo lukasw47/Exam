@@ -18,5 +18,5 @@
 | Ulrike Ziegelmann | u-ziegelm    | Künstlerin bei der Eventagentur | event  | zuaendern     |
 | Steffen Eberhart  | s-eberhar    | Museumsmitarbeiter              | museum | zuaendern     |
 | Dieter Kaestner   | d-kaestne    | Museumsmitarbeiter              | museum | zuaendern     |
-| Isabel Lehmann    | i-lehmann    | MA OHMegaIT                     | ohmega | zuaendern     |
+| Tim Hamacher      | t-hamache    | MA OHMegaIT                     | ohmega | zuaendern     |
 | Lukas Weber       | l-weber      | MA OHMegaIT                     | ohmega | zuaendern     |
