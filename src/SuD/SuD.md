@@ -13,5 +13,8 @@ Software und Datenmanagement
 - [Notizen 31.08.2022](notes/2022-08-31.md) \
   Heterogene / Homogene Datenquellen, \
   Datathon Analyse der Daten
-- [Notizen 07.09.2022](notes/2022-09-07.md)
-- [Notizen 21.09.2022](notes/2022-09-21.md)
+- [Notizen 07.09.2022](notes/2022-09-07.md) \
+  Heterogene Datenquellen, \
+  Mathematische Formeln Syntax
+- [Notizen 21.09.2022](notes/2022-09-21.md) \
+  Datenbanken
